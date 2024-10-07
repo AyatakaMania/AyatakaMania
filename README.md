@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AyatakaMania
+- 👋 Hi, I’m @ishikawa
 - - 👀 Interested in html, python
 - 🌱 Currently learning java
-- 📫 Discord ID @flux_mania
+- 📫 Discord ID @ishikawa777
 
 <!---
 AyatakaMania/AyatakaMania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
